@@ -1,16 +1,16 @@
-# Orçamentex 💼
+# Orçamentex
 
 Plataforma web voltada para automação de triagem de orçamentos, estimativa automática de preços, geração de propostas em PDF e compartilhamento simplificado via WhatsApp.
 
 ---
 
-## 📋 Sobre o Projeto
+## Sobre o Projeto
 
 Em pequenos negócios e atendimentos autônomos, a coleta inicial de requisitos de um serviço gera trocas exaustivas de mensagens. O **Orçamentex** resolve esse problema ao disponibilizar um formulário dinâmico e condicional onde o próprio cliente informa suas necessidades, gerando uma estimativa inicial e permitindo a revisão do vendedor antes da aprovação final.
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * **Front-end:** React.js, Tailwind CSS
 * **Back-end & Banco de Dados:** Firebase (Authentication + Firestore)
@@ -20,7 +20,7 @@ Em pequenos negócios e atendimentos autônomos, a coleta inicial de requisitos 
 
 ---
 
-## 📌 Requisitos da Aplicação (MVP)
+## Requisitos da Aplicação (MVP)
 
 * **RF01:** Cadastro de perguntas condicionais pelo vendedor.
 * **RF02:** Associação de valores e cálculo de estimativa.
@@ -31,7 +31,7 @@ Em pequenos negócios e atendimentos autônomos, a coleta inicial de requisitos 
 
 ---
 
-## 👨‍💻 Autor & Contexto Acadêmico
+## Autor & Contexto Acadêmico
 
 * **Desenvolvedor:** Thiago Santos Guimarães
 * **Instituição:** Instituto Federal da Bahia (IFBA) - Campus Valença
